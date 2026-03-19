@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+![Code Logo](https://github.com/user-attachments/assets/5962ca1b-eb8d-4ee4-85f4-98f24fdb1f9b)
+
+
 My name is Michael Amimo
 
 Education:
